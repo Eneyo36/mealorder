@@ -5,7 +5,7 @@ st.subheader("fresh homemade meals")
 
 
 from PIL import Image
-img = Image.open("marzlogo.png")
+img = Image.open("marz cafe logo.png")
 
 st.image(img, width=100)
 
